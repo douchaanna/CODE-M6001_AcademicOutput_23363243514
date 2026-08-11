@@ -18,7 +18,7 @@ participants spent in each condition.
 `requirements.txt` Python packages and versions 
 
 ## Data availability
-**The raw session data is not published here.** Each participant's file contains their
+The raw session data is not published here. Each participant's file contains their
 name, signature, email address and signed consent record.
 
 The notebook therefore cannot be re-run from a clone. It is published so the method and
