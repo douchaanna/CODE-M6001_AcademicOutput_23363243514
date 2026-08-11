@@ -14,7 +14,9 @@ participants spent in each condition.
 
 ## Contents
 `Capstone.notebook.ipynb`  The full analysis, with all outputs saved. Start here 
+
 `Supporting Files/pipeline/rendering.py` Blender rendering used by section 4 
+
 `requirements.txt` Python packages and versions 
 
 ## Data availability
