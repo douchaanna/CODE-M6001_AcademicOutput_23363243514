@@ -1,6 +1,6 @@
 # Influence of Abstract Spatial Massing on Creativity in CAD Environments
 
-Participants completed the Alternative Uses Task (AUT) twice within a 3D modelling environment under two different conditions: once with abstract spatial massing available (Condition A) and once without it (Condition B). A within-subjects design was used, meaning every participant completed both conditions and therefore served as their own control.
+Participants completed the Alternative Uses Task (AUT) twice within a 3D modelling environment under two different conditions: once with abstract spatial massing available (Condition A) and once without it (Condition B). A within-subjects design was used, meaning every participant completed both conditions and therefore served as their own control. The core questions guiding this analysis are whether having massing to work with changes how many ideas people produce, how developed those ideas become, and how original others judge them to be.
 
 ## What is measured
 Fluency: Number of ideas banked per participant per condition 
