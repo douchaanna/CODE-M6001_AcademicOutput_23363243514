@@ -1,0 +1,12 @@
+# Python 3.9. Install with:  pip install -r requirements.txt
+pandas==2.3.3
+numpy==2.0.2
+scipy==1.13.1
+matplotlib==3.9.4
+seaborn==0.13.2
+pingouin==0.5.5
+statsmodels==0.14.6
+Pillow==11.3.0
+
+# Section 4 also needs Blender (tested with 5.1.2), installed separately:
+# https://www.blender.org/download/
