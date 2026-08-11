@@ -1,0 +1,62 @@
+# ---------------------------------------------------------------------------
+# PARTICIPANT DATA — never commit
+# Every session metadata.json carries the participant's full name, signature,
+# email address and consent record. This folder must stay off GitHub.
+# ---------------------------------------------------------------------------
+Raw Data/
+
+# ---------------------------------------------------------------------------
+# Generated output — too large for a repo, and reproducible from the notebook
+# renders/ is 597 MB (1,278 PNGs); the superseded set is another 751 MB.
+# Re-render with section 4 of the notebook (~45 min, needs Blender).
+# ---------------------------------------------------------------------------
+Supporting Files/renders/
+Supporting Files/renders (superseded)/
+Supporting Files/rating package build/
+
+# ---------------------------------------------------------------------------
+# Scratch modules from building the notebook. The notebook is self-contained and
+# imports only rendering.py; these duplicate its logic and can drift from it.
+# ---------------------------------------------------------------------------
+Supporting Files/pipeline/stage*.py
+Supporting Files/pipeline/render_lib.py
+Supporting Files/pipeline/render_all.py
+Supporting Files/pipeline/render_test.py
+Supporting Files/pipeline/contact_sheet.py
+Supporting Files/pipeline/make_preview.py
+
+# ---------------------------------------------------------------------------
+# Not published: supporting material that is not needed to read the analysis.
+# rendering.py stays - section 4 of the notebook imports it.
+# ---------------------------------------------------------------------------
+README.md
+Supporting Files/figures/
+Supporting Files/originality_key.csv
+Supporting Files/originality_scores.csv
+Supporting Files/Data Analysis Roadmap.png
+Supporting Files/Statistical Test Flowchart.pdf
+Supporting Files/pipeline/build_originality_package.py
+
+# ---------------------------------------------------------------------------
+# Working files
+# ---------------------------------------------------------------------------
+Supporting Files/Capstone.notebook.BACKUP-*.ipynb
+**/_batch.csv
+**/_todo.csv
+**/render_batch.py
+
+# ---------------------------------------------------------------------------
+# Python / Jupyter
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# ---------------------------------------------------------------------------
+# macOS
+# ---------------------------------------------------------------------------
+.DS_Store
+._*
